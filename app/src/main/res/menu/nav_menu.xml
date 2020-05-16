@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_collect"
+            android:icon="@drawable/ic_folder"
+            android:title="收藏夹"></item>
+        <item
+            android:id="@+id/nav_recently"
+            android:icon="@drawable/ic_queue_music"
+            android:title="最近常听"></item>
+        <item
+            android:id="@+id/nav_download"
+            android:icon="@drawable/download"
+            android:title="我的下载"></item>
+        <item
+            android:id="@+id/nav_upload"
+            android:icon="@drawable/upload"
+            android:title="上传"></item>
+        <item
+            android:id="@+id/nav_task"
+            android:icon="@drawable/ic_task"
+            android:title="待定"></item>
+    </group>
+</menu>

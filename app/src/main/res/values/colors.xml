@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="textBackground">#2D353131</color>
+    <color name="aviColor">#FF0000</color>
+    <color name="warning">#FD2E2E</color>
+    <color name="white">#FFFFFF</color>
+    <color name="warning_dialog_title">#FBBC00</color>
+    <color name="publish_btn">#00D869</color>
+    <color name="comment_master_namecolor">#C3E535D3</color>
+    <color name="comment_footman_namecolor">#56AAFF</color>
+</resources>
